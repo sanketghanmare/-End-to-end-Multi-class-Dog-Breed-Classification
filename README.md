@@ -1,12 +1,12 @@
 End-to-end-Multi-class-Dog-Breed-Classification
 
-1. Problem
+1. Problem statement:
 Identifying the breed of a dog given an image of a dog.
 
-When I'm sitting at the cafe and I take a photo of a dog, I want to know what breed of dog it is.
+I want to know what breed of dog it is by uploading the dog picture an input.
 
 2. Data
-The data we're using is from Kaggle's dog breed identification competition.
+The data I used is from Kaggle's dog breed identification competition.
 
 https://www.kaggle.com/c/dog-breed-identification/data
 
